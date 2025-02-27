@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **IoT-based Crop Recommendation System using Machine Learning for Precision Agriculture**
 
-- 🌱 I’m currently learning **Deep Learning,AI,Robotics**
+- 🌱 I’m currently learning **Deep Learning,AI,Robotics,Cyber Security,NLP**
 
 - I’m currently working on **Aero-Rescue: A Smart UAV for Rescue Operation in Disaster Area.**
 
