@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Shahriar Hossain Opu</h1>
+<h1 align="center">Hi 👋, I'm Md Shahriar Hossain Apu</h1>
 <h3 align="center">Studying at IoT and Robotics Engineering at BDU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriar-hossain-opu&label=Profile%20views&color=0e75b6&style=flat" alt="shahriar-hossain-opu" /> </p>
