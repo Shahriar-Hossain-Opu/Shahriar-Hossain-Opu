@@ -1,28 +1,83 @@
-<h1 align="center">Hi 👋, I'm Md Shahriar Hossain Apu</h1>
-<h3 align="center">Studying at IoT and Robotics Engineering at GDU</h3>
+<h1 align="center">Hi 👋, I'm Md. Shahriar Hossain Apu</h1>
+<h3 align="center">
+MSc Student | IoT & Robotics Engineering (IRE), UFTB <br/>
+Adjunct Lecturer, Dept. of CSE, Leading University, Sylhet, Bangladesh
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriar-hossain-opu&label=Profile%20views&color=0e75b6&style=flat" alt="shahriar-hossain-opu" /> </p>
-
-- 🔭 I’m currently working on **IoT-based Crop Recommendation System using Machine Learning for Precision Agriculture**
-
-- 🌱 I’m currently learning **Deep Learning,AI,Robotics,Cyber Security,NLP**
-
-- I’m currently working on **Aero-Rescue: A Smart UAV for Rescue Operation in Disaster Area.**
-
-- 📫 How to reach me **1901036@iot.bdu.ac.bd**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-shahriar-hossain-apu-a6a51b1b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-shahriar-hossain-apu-a6a51b1b2/" height="30" width="40" /></a>
-<a href="https://fb.com/shahriar hossain opu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahriar hossain opu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shahriar hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shahriar hossain" height="30" width="40" /></a>
+<p align="center">
+Researcher in AI, Deep Learning, IoT, Robotics & Cyber-Physical Systems
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=shahriar-hossain-opu&label=Profile%20views&color=0e75b6&style=flat" alt="shahriar-hossain-opu" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriar-hossain-opu&show_icons=true&locale=en&layout=compact" alt="shahriar-hossain-opu" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahriar-hossain-opu&show_icons=true&locale=en" alt="shahriar-hossain-opu" /></p>
+### 👨‍💻 About Me
+- 🔭 Currently working on **AI & IoT-driven intelligent systems**, including UAV-based monitoring, autonomous robotics, and explainable deep learning models  
+- 🎓 MSc in **Internet of Things (IoT) & Robotics Engineering** (Ongoing)  
+- 📚 Published researcher with **journal, conference, and book chapter publications**  
+- 🎯 Research interests: **AI, Deep Learning, Computer Vision, IoT, Robotics, CPS, NLP, Cyber Security**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar-hossain-opu&" alt="shahriar-hossain-opu" /></p>
+---
+
+### 🌱 Currently Learning
+**Advanced Deep Learning, Explainable AI (XAI), Robotics & Autonomous Systems, Cyber-Physical Systems, NLP**
+
+---
+
+### 📫 Contact Me
+- 📧 Email: **1901036@iot.uftb.ac.bd**
+- 🌐 Google Scholar: https://scholar.google.com/citations?user=AtTOCtEAAAAJ
+- 🧬 ORCID: https://orcid.org/0009-0007-3034-7960
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/md-shahriar-hossain-apu-a6a51b1b2/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://github.com/Shahriar-Hossain-Opu" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🧠 Research & Technical Skills
+- **Programming:** Python, C, C++, Java, SQL, Arduino  
+- **AI & ML:** TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, NumPy  
+- **Computer Vision:** YOLOv8/YOLOv9, OpenCV, CBAM, SHAP  
+- **IoT & Robotics:** ESP8266, Sensors, UAVs, ROS, SLAM, Autonomous Systems  
+- **Web & App:** FastAPI, Flutter, React, HTML, CSS, JavaScript  
+- **Cloud & DevOps:** AWS, Google Cloud, Azure, Docker, Git, GitHub  
+- **Databases:** MySQL, MongoDB, PostgreSQL  
+
+---
+
+### 📊 GitHub Stats
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriar-hossain-opu&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahriar-hossain-opu&show_icons=true&locale=en" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar-hossain-opu" />
+</p>
+
+---
+
+### 🏆 Highlights
+- 🥇 Dean’s Award (2025)  
+- 🥈 2nd Runner-up, National Robotics Olympiad (2023)  
+- 📄 Multiple **Q1/Q2 journal publications** in AI, IoT & Robotics  
+- 🎓 CGPA **3.91 / 4.00** (BSc), IELTS **6.5**
+
+---
+
+⭐ *Open to PhD opportunities, international research collaborations, and funded research projects.*
