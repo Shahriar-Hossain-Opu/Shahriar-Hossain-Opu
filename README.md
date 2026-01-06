@@ -57,20 +57,7 @@ Researcher in AI, Deep Learning, IoT, Robotics & Cyber-Physical Systems
 
 ---
 
-### 📊 GitHub Stats
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriar-hossain-opu&show_icons=true&locale=en&layout=compact" />
-</p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahriar-hossain-opu&show_icons=true&locale=en" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar-hossain-opu" />
-</p>
-
----
 
 ### 🏆 Highlights
 - 🥇 Dean’s Award (2025)  
