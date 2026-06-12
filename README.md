@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Shahriar Hossain Apu</h1>
 <h3 align="center">
 MSc Student | IoT & Robotics Engineering (IRE), UFTB <br/>
-Adjunct Lecturer, Dept. of CSE, Leading University, Sylhet, Bangladesh
+Lecturer, Dept. of CSE, Leading University, Sylhet, Bangladesh
 </h3>
 
 <p align="center">
