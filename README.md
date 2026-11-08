@@ -28,7 +28,7 @@ Researcher in AI, Deep Learning, IoT, Robotics & Cyber-Physical Systems
 ---
 
 ### 📫 Contact Me
-- 📧 Email: **1901036@iot.uftb.ac.bd**
+- 📧 Email: **shahriarhossainapu11@gmail.com**
 - 🌐 Google Scholar: https://scholar.google.com/citations?user=AtTOCtEAAAAJ
 - 🧬 ORCID: https://orcid.org/0009-0007-3034-7960
 
