@@ -16,7 +16,7 @@ Researcher in AI, Deep Learning, IoT, Robotics & Cyber-Physical Systems
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on **AI & IoT-driven intelligent systems**, including UAV-based monitoring, autonomous robotics, and explainable deep learning models  
-- 🎓 MSc in **Mobile Robotics Engineering** (Ongoing)  
+- 🎓 MSc in **Mobile Robotics** (Ongoing)  
 - 📚 Published researcher with **journal, conference, and book chapter publications**  
 - 🎯 Research interests: **AI, Deep Learning, Computer Vision, IoT, Robotics, CPS, NLP, Cyber Security**
 
